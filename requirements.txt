@@ -1,4 +1,4 @@
-﻿Django==4.2.4
+Django==4.1.1
 bardapi==0.1.38
 beautifulsoup4==4.12.2
 certifi==2023.7.22
