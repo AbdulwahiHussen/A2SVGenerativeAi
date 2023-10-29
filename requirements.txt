@@ -1,7 +1,7 @@
-Django==4.1.1
 bardapi==0.1.38
 beautifulsoup4==4.12.2
 certifi==2023.7.22
+Django==4.1.1
 gunicorn==21.2.0
 pathlib==1.0.1
 Pillow==10.1.0
